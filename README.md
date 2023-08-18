@@ -1,16 +1,3 @@
-# animal_biography_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-08-18 075327](https://github.com/01nency/animal_biography_app/assets/113500838/18ba7177-4be4-48df-a049-68d8055b7456)
+![Uploading Screenshot 2023-08-16 112442.png…]()
+![Uploading Screenshot 2023-08-16 112243.png…]()
